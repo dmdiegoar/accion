@@ -1,2 +1,2 @@
 pyRofex
-enum=="0.4.7"
+enum==0.4.7
